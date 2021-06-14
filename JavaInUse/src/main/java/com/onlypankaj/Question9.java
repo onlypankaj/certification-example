@@ -3,13 +3,14 @@ package com.onlypankaj;
 public class Question9 {
     public static int calculate(int x) {
         int y = 4;
-        class Stock {
+  /*       class Stock {
             int value(int x) {
-                return x + y++;
+               return x + y++;
             }
         }
         Stock stock = new Stock();
-        return stock.value(x);
+        return stock.value(x);*/
+        return y; //dummy
     }
 
     public static void main(String[] args) {
