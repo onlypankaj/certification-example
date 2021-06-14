@@ -1,6 +1,6 @@
 package com.onlypankaj;
 
-public class Question9 {
+public class Question9_innerClass {
     public static int calculate(int x) {
         int y = 4;
   /*       class Stock {
