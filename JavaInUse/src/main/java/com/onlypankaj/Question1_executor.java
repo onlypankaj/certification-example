@@ -5,7 +5,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
-public class Question1 {
+public class Question1_executor {
     public static void main(String[] args) throws InterruptedException, ExecutionException {
         ExecutorService executorService = Executors.newCachedThreadPool();
         executorService.execute(() -> System.out.print("JavaInUse "));
