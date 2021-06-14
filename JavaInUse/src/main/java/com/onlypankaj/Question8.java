@@ -30,6 +30,6 @@ public class Question8 {
         }
         animal = null;
 
-        
+
     }
 }
